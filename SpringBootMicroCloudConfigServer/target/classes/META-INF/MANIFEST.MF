@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootMicroCloudConfigServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: abhishekvashistha
+Implementation-Vendor-Id: com.microservices.cloudconfig
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-config-server
+Created-By: Maven Integration for Eclipse
+
